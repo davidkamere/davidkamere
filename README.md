@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @davidkamere
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently learning AWS Amplify and GraphQL
-- 💞️ I’m looking to collaborate on react Projects
+- 💞️ I’m looking to collaborate on React Projects
 - 📫 How to reach me [portfolio](https://portfolio-davidkamere.vercel.app/)
 
 <!---
