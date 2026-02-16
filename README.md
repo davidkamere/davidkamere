@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davidkamere
 
-- I'm currently learning and building in Go
+- I'm currently building AI agents
 
 <!---
 davidkamere/davidkamere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
