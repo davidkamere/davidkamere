@@ -26,18 +26,7 @@ I like hard technical problems, clear product thinking, and strong execution.
 
 ---
 
-## What I Bring
-
-- Delivered **2000+ commits** on enterprise social platform + mobile app
-- Built **realtime features** (threads, reactions, notifications, attachments)
-- Shipped full-stack systems with **React, TypeScript, Node.js, Fastify, Prisma, PostgreSQL, tRPC**
-- Implemented secure auth flows including **2FA**
-- Designed and built responsive UI across web and mobile (Ionic/Capacitor)
-- Comfortable owning work from concept to production
-
----
-
-## Selected Projects
+## Selected Recent Projects
 
 ### Storycollab
 Realtime co-writing platform with deterministic single-writer locking and live sync.
