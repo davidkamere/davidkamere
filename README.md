@@ -1,6 +1,6 @@
 <h1 align="center">David Kamere</h1>
 <p align="center">
-  Full-Stack Engineer • Product-Minded Builder • UI/UX + Realtime Systems
+  Full-Stack Engineer • AI Engineer • Product-Minded Builder • UI/UX + Realtime Systems
 </p>
 
 <p align="center">
@@ -17,6 +17,7 @@
 I build production software that is clean, fast, and human-friendly.
 
 I work across frontend and backend, with a strong focus on:
+- AI Systems/Applications/Infrastructure
 - Realtime collaboration
 - Thoughtful UX and interaction design
 - Reliable APIs and data systems
