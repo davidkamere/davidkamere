@@ -34,7 +34,7 @@ Realtime co-writing platform with deterministic single-writer locking and live s
 
 - Durable Objects + WebSockets for race-safe lock ownership
 - Live room presence and state transitions
-- Technical breakdown: `/side-project-1.html`
+
 
 **Live:** [Storycollab Room](https://new-stories-nine.vercel.app/room/d41be205-89fb-4fc8-99de-afd0acf53a08)
 
