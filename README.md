@@ -14,9 +14,8 @@
 
 ## About Me
 
-I build production software that is clean, fast, and human-friendly.
 
-I work across frontend and backend, with a strong focus on:
+I work across frontend and backend:
 - AI Systems/Applications/Infrastructure
 - Realtime collaboration
 - Thoughtful UX and interaction design
